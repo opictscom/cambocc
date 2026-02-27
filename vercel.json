@@ -6,11 +6,6 @@
   "outputDirectory": ".next/static",
   "env": {},
   "regions": ["sin1"],
-  "functions": {
-    "api/**/*.ts": {
-      "maxDuration": 30
-    }
-  },
   "headers": [
     {
       "source": "/",
