@@ -3,7 +3,6 @@
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "framework": "nextjs",
-  "outputDirectory": ".next/static",
   "env": {},
   "regions": ["sin1"],
   "headers": [
