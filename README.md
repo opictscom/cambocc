@@ -1,6 +1,6 @@
-# CamboCC - Coming Soon Landing Page
+# CamboCare Concierge - Coming Soon Landing Page
 
-A simple and elegant "Coming Soon" landing page for CamboCC built with Next.js, deployed on Vercel.
+A simple and elegant "Coming Soon" landing page for CamboCare Concierge built with Next.js, deployed on Vercel.
 
 ## Tech Stack
 
@@ -63,7 +63,7 @@ Your landing page will be live!
 cambocc/
 ├── app/
 │   ├── layout.tsx        # Root layout
-│   ├── page.tsx          # Home page (Coming Soon)
+│   ├── page.tsx          # Home page (CamboCare Concierge)
 │   └── globals.css       # Global styles
 ├── public/               # Static assets
 ├── package.json
